@@ -1,6 +1,6 @@
 {
-  "id": "obsidian-claude",
-  "name": "Claude AI",
+  "id": "claude-code-copilot",
+  "name": "Claude Code Copilot",
   "version": "1.0.0",
   "minAppVersion": "1.0.0",
   "description": "Integrate Claude AI into Obsidian with a chat panel, text transforms, and inline /ai commands.",

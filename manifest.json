@@ -1,0 +1,9 @@
+{
+  "id": "obsidian-claude",
+  "name": "Claude AI",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "Native Claude AI integration for Obsidian — chat panel, text transforms, inline /ai commands. Powered by Claude Code CLI.",
+  "author": "obsidina-claude",
+  "isDesktopOnly": true
+}

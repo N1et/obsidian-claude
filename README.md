@@ -17,7 +17,7 @@ Open a side panel to have a full conversation with Claude. It automatically incl
 
 Select text, right-click, and pick a transform:
 
-![Context menu with Claude transforms](images/Pasted%20image%2020260219012436.png)
+<img width="2630" height="1566" alt="image" src="https://github.com/user-attachments/assets/72ee7aec-1bd5-467f-99d4-34c7d5fed20d" />
 
 - **Improve Writing** — better clarity and readability
 - **Fix Grammar** — correct spelling and punctuation
@@ -31,6 +31,10 @@ Also available as command palette commands, plus **Translate** (10 languages) an
 ### Inline `/ai` Commands
 
 Type `/ai` followed by a prompt directly in your note. A suggestion popup appears with quick actions (continue writing, summarize, generate outline) or lets you run any custom prompt. The result streams right into the editor.
+
+<img width="2086" height="1120" alt="image" src="https://github.com/user-attachments/assets/10fde04c-182a-46c2-8b84-81d8cd62da03" />
+<img width="1952" height="948" alt="image" src="https://github.com/user-attachments/assets/72deda7a-8a4c-4773-8795-942a91795746" />
+
 
 ## Prerequisites
 
